@@ -1,7 +1,8 @@
 {
   "name": "wpmk-multi-lib",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "main": "lib/index/index.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
